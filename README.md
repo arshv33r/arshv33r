@@ -1,3 +1,1 @@
- 👋 Hi, I’m Arshveer,
- Junior at Queens College majoring in CS. 
- Always learning...
+hi im arsh, this is the stuff i work on ig
